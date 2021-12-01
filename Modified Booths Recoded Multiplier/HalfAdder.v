@@ -1,5 +1,5 @@
 //
-// File Name : ModBoothMultiplier
+// File Name : HalfAdder.v
 // Type : module
 // Department : Electronics and Tele-communication
 // Author : Reuel Reuben
