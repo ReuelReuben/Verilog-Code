@@ -1,3 +1,11 @@
+//
+// File Name : FullAdder.v
+// Type : module
+// Department : Electronics and Tele-communication
+// Author : Reuel Reuben
+// Author : reuel992000@gmail.com
+// Purpose : Full Adder
+//
 module FA(x,y,a,b,c);
 input a,b,c;
 output x,y;
